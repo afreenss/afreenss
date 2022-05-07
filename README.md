@@ -1,6 +1,6 @@
-👋 Hi, I’m afreen
-👀 I’m interested in AI/ML and Web/App Dev.
-🌱 I’m a BTech Comp Sci AI/ML Honours Student striving to polish my skills through more hands on experience !!
+👋 Hi, I’m afreen  
+👀 I’m interested in AI/ML and Web/App Dev.  
+🌱 I’m a BTech Comp Sci AI/ML Honours Student striving to polish my skills through more hands on experience !!  
 
 
 <!---
